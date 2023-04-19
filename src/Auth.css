@@ -1,0 +1,116 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100;
+}
+.main {
+    display: flex;
+    flex-direction: row;
+    background-color: #F5F5F5;
+}
+.board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 400px;
+    height: 800px;
+    background-color: black;
+    color: white;
+}
+.board1 {
+    display: flex;
+    color: white;
+    text-align: center;
+}
+.main2 {
+    display: flex;
+    margin-left: 20%;
+    margin-top: 100px;
+    
+}
+.signin1 {
+    width: 131px;
+    height: 44px;
+    margin-bottom: 0;
+    
+}
+.signin2 {
+    margin-top: 0;
+    font-weight: 400;
+    font-size: 16px;
+}
+.form {
+    
+    width: 385px;
+    height: 280px;
+    background-color: white;
+    border-radius: 20px;
+    
+}
+.email1 {
+
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 30px;
+    padding-top: 20px;
+    margin-bottom: 0;
+
+}
+.password1 {
+
+    font-weight: 400;
+    font-size: 16px;
+    padding-left: 30px;
+    margin-top: 20px;
+    margin-bottom: 0;
+
+}
+.email {
+    padding-left: 30px;
+    margin-left: 30px;
+    border: 0px solid #F5F5F5;
+    background-color: #F5F5F5;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 290px;
+    height: 20px;
+    border-radius: 10px;
+    
+}
+.password {
+    padding-left: 30px;
+    margin-left: 30px;
+    border: 0px solid #F5F5F5;
+    background-color: #F5F5F5;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 290px;
+    height: 20px;
+    border-radius: 10px;
+    
+}
+.forgotpassword {
+    font-weight: 400;
+    font-size: 10px;
+    padding-left: 30px;
+}
+.button {
+    margin-left: 30px;
+    border: 0px solid black;
+    background-color: black;
+    color: white;
+    width: 325px;
+    height: 30px;
+    border-radius: 10px;
+    margin-top: 22px;
+    cursor: pointer;
+
+}
+.signin3 {
+    margin-top: 10px;
+    font-weight: 400;
+    font-size: 10px;
+    
+    
+}
